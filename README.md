@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me
 I'm currently studying Computer Programming at Pamukkale University. I’m a Game Developer with hyper-casual 2D games using Unity and C#. Developed numerous addictive titles with clean mechanics, minimalist UI, and rapid prototyping. Passionate about creating accessible, high-retention experiences through polished 2D physics and engaging core loops.
 
 ## 🌐 Socials:
