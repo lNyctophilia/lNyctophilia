@@ -2,7 +2,7 @@
 I'm currently studying Computer Programming at Pamukkale University. I’m a Game Developer with hyper-casual games using Unity and C#. Developed numerous addictive titles with clean mechanics, minimalist UI, and rapid prototyping. Passionate about creating accessible, high-retention experiences through polished 2D physics and engaging core loops.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-köse-460233367) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@HalilKse) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycgamedevs@gmail.com) [![Hackerrank](https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/nycgamedevs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-köse-lnyc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@HalilKse) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nycgamedevs@gmail.com) [![Hackerrank](https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=green)](https://www.hackerrank.com/nycgamedevs)
 
 
 
